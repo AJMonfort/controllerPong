@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="controllerPong:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/controllerPong_jar2</output-path>
+    <root id="archive" name="controllerPong.jar">
+      <element id="module-output" name="controllerPong" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../jarfiles/jinput-2.0.10-natives-all.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../jarfiles/jinput-2.0.10.jar" path-in-jar="/" />
+      <element id="library" level="project" name="java" />
+    </root>
+  </artifact>
+</component>
